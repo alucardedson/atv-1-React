@@ -1,0 +1,8 @@
+Criei uma pasta meu-app
+abri o terminal dentro da pasta
+executei o comando npm create vite@latest
+escolhi o framework React
+Escolhi a linguagem Javascript
+Executei o comando cd Meu-app
+Executei o comando npm install 
+Executei o comando  npm run dev
